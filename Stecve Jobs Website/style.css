@@ -1,0 +1,11 @@
+body{
+	background-color:#5706d1;
+	color: black;
+	width: 95%;
+	text-align: center;
+	font-family: "Bauhaus 93"
+
+}
+ul {
+	list-style-position: inside;
+}
